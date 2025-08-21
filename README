@@ -34,3 +34,6 @@ http://localhost:3007/mymap?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=335933
 
 - `<mapname>`: Имя карты, указанное при загрузке (например, `mymap`).
 - Параметры WMS: Стандартные, как в примере (BBOX, CRS, WIDTH, HEIGHT, LAYERS и т.д.).
+
+
+отредактируй этот readme чтобы он нормально отображался в github
